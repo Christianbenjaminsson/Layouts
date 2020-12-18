@@ -6,9 +6,9 @@
 <?import java.awt.Button?>
 <GridPane fx:controller="sample.Controller"
           xmlns:fx="http://javafx.com/fxml" alignment="center" hgap="10" vgap="10">
-    <Button text="Button one"/>
+    <Button text="Button one" Gridpane.rowIndex="0" Gridpane.columnIndex="0"/>
     <Button text="Button two"/>
     <Button text="Button three"/>
-    <Button text="Button four"/>
-    <Button text="Button five"/>
+    <Button text="Really long button four"/>
+    <Button text="Button five "/>
 </GridPane>
