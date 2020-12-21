@@ -11,5 +11,4 @@
     <Button text="Button three" Gridpane.rowIndex="1" Gridpane.columnIndex="0"/>
     <Button text="Really long button four" Gridpane.rowIndex="1" Gridpane.columnIndex="1"/>
     <Button text="Button five " Gridpane.rowIndex="2" Gridpane.columnIndex="0"/>
-    <Button text="Button six" />
 </GridPane>
