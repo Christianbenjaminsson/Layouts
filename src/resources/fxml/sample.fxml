@@ -1,0 +1,11 @@
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.GridPane?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import java.awt.Button?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<GridPane fx:controller="main.com.example.layouts.Controller"
+          xmlns:fx="http://javafx.com/fxml" alignment="top_center" hgap="10" vgap="10"
+          gridLinesVisible="true">
+</GridPane>
