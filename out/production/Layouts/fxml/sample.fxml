@@ -5,7 +5,10 @@
 <?import javafx.scene.control.Label?>
 <?import java.awt.Button?>
 <?import javafx.scene.layout.ColumnConstraints?>
-<GridPane fx:controller="main.java.com.example.layouts.Controller"
-          xmlns:fx="http://javafx.com/fxml" alignment="top_center" hgap="10" vgap="10"
-          gridLinesVisible="true">
-</GridPane>
+<?import javafx.scene.layout.HBox?>
+<HBox fx:controller="main.com.example.layouts.Controller"
+      xmlns:fx="http://javafx.com/fxml" alignment="top_center" >
+    <Button text="Okay"/>
+    <Button text="Cancel"/>
+    <Button text="Help"/>
+</HBox>
